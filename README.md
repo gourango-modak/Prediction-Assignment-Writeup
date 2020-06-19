@@ -1,7 +1,7 @@
 # Prediction-Assignment-Writeup
 Coursera - Practical Machine Learning - Prediction Assignment Writeup
 
-Link to html-file: https://rawgit.com/fredrikskatland/Prediction-Assignment-Writeup/master/Prediction_Assignment_Writeup.html
+Link to html-file: https://github.com/gourango-modak/Prediction-Assignment-Writeup/blob/master/Prediction_Assignment_Writeup.html
 
 The training data for this project are available here:
 
